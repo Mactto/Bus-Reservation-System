@@ -17,4 +17,6 @@
 5. 포인트 사용/차감
 6. 예약/예약조회/예약취소
 
-![mainForm](./Windows-TermProject/images/mainForm.png){: width=300px height=180px align=center }
+---
+
+![mainForm](./Windows-TermProject/images/mainForm.png)
