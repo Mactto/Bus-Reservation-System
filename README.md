@@ -56,7 +56,7 @@
 
 ![myPageForm](./images/MyPageForm.png)
 ---
-** 9. t_Cancel.cs **     
+9. ** t_Cancel.cs **     
 
 ![cancelForm](./images/t_CancelForm.png)
 ---
