@@ -65,15 +65,15 @@ namespace BusSystem
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (comboBox1.SelectedItem == null)
+            if (comboBox1.SelectedItem.ToString() == "")
                 MessageBox.Show("카드사를 선택해주세요.");
-            else if (textBox1.TextLength != textBox1.MaxLength || textBox2.TextLength != textBox2.MaxLength)
+            else if (textBox1.Text == "" || textBox2.Text == "")
                 MessageBox.Show("카드 번호를 제대로 기입해주세요.");
-            else if (textBox3.TextLength != textBox3.MaxLength || textBox4.TextLength != textBox4.MaxLength)
+            else if (textBox3.Text == "" || textBox4.Text == "")
                 MessageBox.Show("카드번호를 제대로 기입해주세요.");
-            else if (textBox5.TextLength != textBox5.MaxLength || textBox6.TextLength != textBox6.MaxLength)
+            else if (textBox5.Text == "" || textBox6.Text == "")
                 MessageBox.Show("유효기간을 제대로 기입해주세요.");
-            else if (textBox7.TextLength != textBox7.MaxLength)
+            else if (textBox6.Text == "")
                 MessageBox.Show("카드 비밀 번호를 입력해주세요.");
             else
             {
@@ -104,14 +104,6 @@ namespace BusSystem
                     label33.Text = ((Seat.price[0] + Seat.price[1] - discount)).ToString();
                 }
                 label39.Text = Main.point[Main.user_num].ToString();
-            }
-        }
-
-        private void textbox_KeyPress(object sender, KeyPressEventArgs e)
-        {
-            if (!char.IsDigit(e.KeyChar) || e.KeyChar == Convert.ToChar(Keys.Back))
-            {
-                e.Handled = true;
             }
         }
     }

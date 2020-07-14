@@ -72,8 +72,9 @@ namespace BusSystem
                 selected_buttons.Remove((Button)sender);
                 ((Button)sender).FlatAppearance.BorderSize = 0;
                 m_count--;
-                if (s_Ticketing.rt == false) seat_num1.Remove(((Button)sender).Text);
-                else seat_num2.Remove(((Button)sender).Text);
+                if (s_Ticketing.rt == false) seat_num1.Remove(((Button)sender).Text.ToString());
+                if (s_Ticketing.rt == false) seat_num1.Remove(((Button)sender).Text.ToString());
+                else seat_num2.Remove(((Button)sender).Text.ToString());
             }
             else
             {

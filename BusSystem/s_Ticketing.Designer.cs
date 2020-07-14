@@ -32,107 +32,107 @@
             "06 : 00",
             "동부고속",
             "우등",
-            "36 석"}, -1);
+            "23 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem2 = new System.Windows.Forms.ListViewItem(new string[] {
             "07 : 00",
             "중앙고속",
             "우등",
-            "36 석"}, -1);
+            "24 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem3 = new System.Windows.Forms.ListViewItem(new string[] {
             "07 : 30",
             "중앙고속",
             "고속",
-            "36 석"}, -1);
+            "35 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem4 = new System.Windows.Forms.ListViewItem(new System.Windows.Forms.ListViewItem.ListViewSubItem[] {
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "08 : 00"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "동부고속"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "프리미엄", System.Drawing.Color.Gold, System.Drawing.SystemColors.Window, new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "36 석")}, -1);
+            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "11 석")}, -1);
             System.Windows.Forms.ListViewItem listViewItem5 = new System.Windows.Forms.ListViewItem(new string[] {
             "08 : 40",
             "동부고속",
             "우등",
-            "36 석"}, -1);
+            "25 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem6 = new System.Windows.Forms.ListViewItem(new string[] {
             "09 : 00",
             "동부고속",
             "고속",
-            "36 석"}, -1);
+            "38 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem7 = new System.Windows.Forms.ListViewItem(new string[] {
             "10 : 20",
             "동부고속",
             "우등",
-            "36 석"}, -1);
+            "18 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem8 = new System.Windows.Forms.ListViewItem(new System.Windows.Forms.ListViewItem.ListViewSubItem[] {
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "10 : 40"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "중앙고속"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "프리미엄", System.Drawing.Color.Gold, System.Drawing.SystemColors.Window, new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "36 석")}, -1);
+            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "18 석")}, -1);
             System.Windows.Forms.ListViewItem listViewItem9 = new System.Windows.Forms.ListViewItem(new string[] {
             "11 : 20",
             "중앙고속",
             "우등",
-            "36 석"}, -1);
+            "25 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem10 = new System.Windows.Forms.ListViewItem(new System.Windows.Forms.ListViewItem.ListViewSubItem[] {
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "13 : 30"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "중앙고속"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "프리미엄", System.Drawing.Color.Gold, System.Drawing.SystemColors.Window, new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "36 석")}, -1);
+            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "18 석")}, -1);
             System.Windows.Forms.ListViewItem listViewItem11 = new System.Windows.Forms.ListViewItem(new string[] {
             "14 : 30",
             "동부고속",
             "고속",
-            "36 석"}, -1);
+            "38 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem12 = new System.Windows.Forms.ListViewItem(new string[] {
             "15 : 00",
             "중앙고속",
             "우등",
-            "36 석"}, -1);
+            "25 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem13 = new System.Windows.Forms.ListViewItem(new string[] {
             "16 : 00",
             "동부고속",
             "우등",
-            "36 석"}, -1);
+            "23 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem14 = new System.Windows.Forms.ListViewItem(new string[] {
             "16 : 30",
             "동부고속",
             "우등",
-            "36 석"}, -1);
+            "18 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem15 = new System.Windows.Forms.ListViewItem(new System.Windows.Forms.ListViewItem.ListViewSubItem[] {
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "17 : 00"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "동부고속"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "프리미엄", System.Drawing.Color.Gold, System.Drawing.SystemColors.Window, new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "36 석")}, -1);
+            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "2석")}, -1);
             System.Windows.Forms.ListViewItem listViewItem16 = new System.Windows.Forms.ListViewItem(new string[] {
             "18 : 30",
             "중앙고속",
             "고속",
-            "36 석"}, -1);
+            "41 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem17 = new System.Windows.Forms.ListViewItem(new string[] {
             "19 : 00",
             "중앙고속",
             "우등",
-            "36 석"}, -1);
+            "23 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem18 = new System.Windows.Forms.ListViewItem(new System.Windows.Forms.ListViewItem.ListViewSubItem[] {
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "20 : 00"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "동부고속"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "프리미엄", System.Drawing.Color.Gold, System.Drawing.SystemColors.Window, new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "36 석")}, -1);
+            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "16 석")}, -1);
             System.Windows.Forms.ListViewItem listViewItem19 = new System.Windows.Forms.ListViewItem(new string[] {
             "20 : 30",
             "동부고속",
             "고속",
-            "36 석"}, -1);
+            "22 석"}, -1);
             System.Windows.Forms.ListViewItem listViewItem20 = new System.Windows.Forms.ListViewItem(new System.Windows.Forms.ListViewItem.ListViewSubItem[] {
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "22 : 00"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "중앙고속"),
             new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "심야프리미엄", System.Drawing.Color.Gold, System.Drawing.SystemColors.Window, new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)))),
-            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "36 석")}, -1);
+            new System.Windows.Forms.ListViewItem.ListViewSubItem(null, "18 석")}, -1);
             System.Windows.Forms.ListViewItem listViewItem21 = new System.Windows.Forms.ListViewItem(new string[] {
             "23 : 00",
             "동부고속",
             "심야우등",
-            "36 석"}, -1);
+            "25 석"}, -1);
             this.panel1 = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();

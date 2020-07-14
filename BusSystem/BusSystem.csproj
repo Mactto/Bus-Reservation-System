@@ -111,12 +111,6 @@
     <Compile Include="s_Ticketing.Designer.cs">
       <DependentUpon>s_Ticketing.cs</DependentUpon>
     </Compile>
-    <Compile Include="T_cancel.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="T_cancel.Designer.cs">
-      <DependentUpon>T_cancel.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="a_Ticketing.resx">
       <DependentUpon>a_Ticketing.cs</DependentUpon>
     </EmbeddedResource>
@@ -151,9 +145,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="s_Ticketing.resx">
       <DependentUpon>s_Ticketing.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="T_cancel.resx">
-      <DependentUpon>T_cancel.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

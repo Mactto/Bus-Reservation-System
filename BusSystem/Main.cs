@@ -25,14 +25,10 @@ namespace BusSystem
         public static string m_go = "편도";
         public static string grade = "전체";
         public static int user_num;
-        public static int[] sn;
-        public static int[] sn2;
 
         public Main()
         {
             InitializeComponent();
-            sn = new int[21];
-            sn2 = new int[21];
             loginBtn.FlatAppearance.BorderSize = 0;
             registerBtn.FlatAppearance.BorderSize = 0;
             mypageBtn.FlatAppearance.BorderSize = 0;
@@ -49,7 +45,6 @@ namespace BusSystem
             away_day = "";
             dateTimePicker2.MinDate = DateTime.Today;
             dateTimePicker3.MinDate = DateTime.Today;
-            tc = new List<string>();
         }
 
         //================= 수단 이벤트 ================================
@@ -218,8 +213,8 @@ namespace BusSystem
         {
             if (login_state == false)
             {
-                loginForm = new Login();
-                switch (loginForm.ShowDialog())
+                registerForm = new Register();
+                switch (registerForm.ShowDialog())
                 {
                     case DialogResult.OK:
                         break;

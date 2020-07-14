@@ -5,7 +5,6 @@ namespace BusSystem
 {
     public partial class a_Ticketing : Form
     {
-        Random rand = new Random();
         public static string s_time;
         public static string company;
         public static string grade;
@@ -21,8 +20,6 @@ namespace BusSystem
             label4.Text = Main.away_city;
             label6.Text = Main.away_day;
             s_Ticketing.rt = true;
-            for (int i = 0; i < Main.sn.Length; i++)
-                Main.sn[i] = rand.Next(0, 36);
         }
 
         private void listView1_DoubleClick(object sender, System.EventArgs e)
@@ -32,12 +29,6 @@ namespace BusSystem
             grade = listView1.SelectedItems[0].SubItems[2].Text.ToString();
             this.DialogResult = DialogResult.OK;
             this.Close();
-        }
-
-        private void a_Ticketing_Load(object sender, EventArgs e)
-        {
-            for (int i = 0; i < Main.sn.Length; i++)
-                listView1.Items[i].SubItems[3].Text = Main.sn[i].ToString() + " 석";
         }
     }
 }
