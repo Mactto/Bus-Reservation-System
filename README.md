@@ -20,31 +20,33 @@
 ---
 
 [ 파일 구조 ]
+![fileStructure](./images/fileStruct.png)
+
+---
 1. Main.cs
 ![mainForm](./images/mainForm.png)
-
+---
 2. Login.cs
 ![loginForm](./images/LoginForm.png)
-
+---
 3. Register.cs
 ![registerForm](./images/RegisterForm.png)
-
+---
 4. Route.cs
 ![routeForm](./images/RouteForm.png)
-
+---
 5. s_Ticketing.cs / a_Ticketing.cs
 ![ticketingForm](./images/s_TicketingForm.png)
-
+---
 6. Seat.cs
 ![seatForm](./images/SeatForm.png)
-
+---
 7. Payment.cs
 ![paymentForm](./images/PaymentForm.png)
-
+---
 8. MyPage.cs
 ![myPageForm](./images/MyPageForm.png)
-
+---
 9. t_Cancel.cs
 ![cancelForm](./images/t_CancelForm.png)
-
 ---
